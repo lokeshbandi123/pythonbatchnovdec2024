@@ -18,4 +18,3 @@ to commit the changes
 git commit -m "commit message"
 git diff
 to push the changes
-
