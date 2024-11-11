@@ -49,3 +49,21 @@ To create new branch
 
     git checkout -b <NEW BRANCH NAME>
 
+## course completed
+
+[class00 4th nov 2024](zoom recordings linkl)
+
+   00. Dev Setup
+       Installing IDE/Editor
+       Installing python and local setup
+       Github access, creating project
+
+[class01 6th nov 2024](zoom recordings link2)
+
+       git commands,
+       markdown syntax
+       daily activity and usage
+
+    01.Introduction
+      importance of python
+      two versions pf python (2.x & 3.x)
