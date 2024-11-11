@@ -31,4 +31,21 @@ git push origin <sourcebranch>
    class01 -> main
    ex: git push origin class01
 
+### Daily
+
+ To check the branch is clean,
+
+    git status
+
+To checkout top the main branch
+
+      git checkout main
+
+To get the latest changes
+
+     git pull origin main
+
+To create new branch
+
+    git checkout -b <NEW BRANCH NAME>
 
